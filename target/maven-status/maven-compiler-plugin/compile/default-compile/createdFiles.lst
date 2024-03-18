@@ -1,0 +1,5 @@
+br/com/vianadoria/desafiojava/model/Anime.class
+br/com/vianadoria/desafiojava/MainApplication.class
+br/com/vianadoria/desafiojava/controller/AnimeController.class
+br/com/vianadoria/desafiojava/repo/IAnimeRepository.class
+br/com/vianadoria/desafiojava/service/AnimeService.class
